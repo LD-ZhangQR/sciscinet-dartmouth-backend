@@ -1,0 +1,34 @@
+university_keywords:
+  - "Dartmouth"
+  - "Dartmouth College"
+
+field_keywords:
+  - "Computer Science"
+
+year_from: 2021
+year_to: 2025
+
+paper_graph:
+  max_nodes: 800
+  max_edges: 2000
+  strategy: "top_cited"
+
+author_graph:
+  max_nodes: 600
+  min_edge_weight: 2
+  strongest_k: 10
+
+institution_whitelist:
+  - "Dartmouth–Hitchcock Medical Center"
+  - "Children's Hospital at Dartmouth Hitchcock"
+  - "Dartmouth Cancer Center"
+  - "Dartmouth Institute for Health Policy and Clinical Practice"
+  - "Dartmouth Health"
+  - "Dartmouth College"
+
+doctype_whitelist:
+  - article
+  - preprint  
+
+doi_blacklist_regex:
+  - "/data\\."

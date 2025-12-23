@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# HF cache and any raw/large data (DO NOT COMMIT)
+data/cache/
+data/raw/
+data/interim/
+data/processed/

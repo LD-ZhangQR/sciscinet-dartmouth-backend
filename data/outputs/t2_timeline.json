@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "type": "t2_timeline",
+    "year_range": [
+      2016,
+      2025
+    ],
+    "field": [
+      "Computer Science"
+    ],
+    "institutions": [
+      "Dartmouth College",
+      "Dartmouth Cancer Center",
+      "Dartmouth–Hitchcock Medical Center",
+      "Dartmouth Institute for Health Policy and Clinical Practice",
+      "Dartmouth Health",
+      "Children's Hospital at Dartmouth Hitchcock"
+    ],
+    "metric": "paper_count"
+  },
+  "data": [
+    {
+      "year": 2016,
+      "paper_count": 683
+    },
+    {
+      "year": 2017,
+      "paper_count": 721
+    },
+    {
+      "year": 2018,
+      "paper_count": 769
+    },
+    {
+      "year": 2019,
+      "paper_count": 819
+    },
+    {
+      "year": 2020,
+      "paper_count": 964
+    },
+    {
+      "year": 2021,
+      "paper_count": 1037
+    },
+    {
+      "year": 2022,
+      "paper_count": 912
+    },
+    {
+      "year": 2023,
+      "paper_count": 958
+    },
+    {
+      "year": 2024,
+      "paper_count": 802
+    },
+    {
+      "year": 2025,
+      "paper_count": 0
+    }
+  ]
+}
